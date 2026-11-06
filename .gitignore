@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+data/raw/*
+!data/raw/.gitkeep
+data/processed/
+models/
+*.part
+.pytest_cache/
+.cache/
+*.egg-info/
+dist/
+build/

@@ -1,0 +1,22 @@
+{
+  "source_model": "champion.joblib",
+  "source_dataset": "ROAD",
+  "target_dataset": "can-train-and-test set_01 documented subset",
+  "threshold": 0.07447580432884734,
+  "adaptation": "none; source model and threshold unchanged",
+  "metrics": {
+    "windows": 19305,
+    "positive_windows": 1829,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "pr_auc": 0.11968696085121765,
+    "roc_auc": 0.5629283856726545,
+    "false_positive_rate": 0.0,
+    "false_positive_windows": 0,
+    "true_negative_windows": 17476,
+    "missed_attack_windows": 1829,
+    "detected_attack_windows": 0
+  },
+  "mean_unknown_id_fraction": 0.869666337966919
+}
