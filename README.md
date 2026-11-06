@@ -1,5 +1,9 @@
 # CAN Sentinel
 
+[![checks](https://github.com/thezanis11/can-sentinel/actions/workflows/checks.yml/badge.svg)](https://github.com/thezanis11/can-sentinel/actions/workflows/checks.yml)
+
+Public repository: [thezanis11/can-sentinel](https://github.com/thezanis11/can-sentinel).
+
 **Automotive cybersecurity: train, compare and inspect intrusion detectors on real CAN traffic.**
 
 Python · CAN bus · anomaly detection · supervised learning · reproducible experiments
